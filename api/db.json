@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "t1",
+      "description": "d1",
+      "id": 1
+    },
+    {
+      "title": "t3",
+      "description": "d3",
+      "id": 2
+    },
+    {
+      "title": "t4",
+      "description": "d5",
+      "id": 3
+    },
+    {
+      "id": 5
+    },
+    {
+      "title": "frfr",
+      "description": "gtgg edit",
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ]
+}
